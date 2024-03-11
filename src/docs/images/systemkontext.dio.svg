@@ -1,0 +1,30 @@
+<svg host="65bd71144e" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="121px" height="61px" viewBox="-0.5 -0.5 121 61" content="&lt;mxfile&gt;&lt;diagram id=&quot;DluxnlZPua2tC6PPJhqs&quot; name=&quot;Page-1&quot;&gt;jZLBboMwDIafJndIpJZey7rushOHnSPikUiBoNQM2NMvLA6UVZV2iezPdmL/MRNlO1297PW7U2AZz9TExAvj/CSKcC5gjqDgxwgab1RE+QYq8w0EM6KDUXDbJaJzFk2/h7XrOqhxx6T3btynfTq7f7WXDTyAqpb2kX4YhfrPFAt/A9Po9HJ+OMVIK1MyTXLTUrnxDokLE6V3DqPVTiXYRbukS6x7fRJdG/PQ4X8KeCz4knag2c7mWvXQKfDUIc5pbO+GwJfKjInzqA1C1ct6iY7hnwPT2Nrg5cGki8EjTE+by9eRw6qAawH9HFJSQUEq0ZrwI/njJnqelNR3gh+ISfrnZr16kyIYpEZyN9V/Y3erKy4/&lt;/diagram&gt;&lt;/mxfile&gt;">
+    <defs/>
+    <g>
+        <rect x="0" y="0" width="120" height="60" fill="rgb(255, 255, 255)" stroke="rgb(0, 0, 0)" pointer-events="all"/>
+        <g transform="translate(-0.5 -0.5)">
+            <switch>
+                <foreignObject pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility" style="overflow: visible; text-align: left;">
+                    <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 118px; height: 1px; padding-top: 30px; margin-left: 1px;">
+                        <div data-drawio-colors="color: rgb(0, 0, 0); " style="box-sizing: border-box; font-size: 0px; text-align: center;">
+                            <div style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; pointer-events: all; white-space: normal; overflow-wrap: normal;">
+                                BiGSpender
+                            </div>
+                        </div>
+                    </div>
+                </foreignObject>
+                <text x="60" y="34" fill="rgb(0, 0, 0)" font-family="Helvetica" font-size="12px" text-anchor="middle">
+                    BiGSpender
+                </text>
+            </switch>
+        </g>
+    </g>
+    <switch>
+        <g requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility"/>
+        <a transform="translate(0,-5)" xlink:href="https://www.diagrams.net/doc/faq/svg-export-text-problems" target="_blank">
+            <text text-anchor="middle" font-size="10px" x="50%" y="100%">
+                Text is not SVG - cannot display
+            </text>
+        </a>
+    </switch>
+</svg>

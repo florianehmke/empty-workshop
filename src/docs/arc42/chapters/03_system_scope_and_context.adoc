@@ -25,7 +25,7 @@ ifndef::imagesdir[:imagesdir: ../../images]
 
 === Technischer Kontext
 
-
+image::systemkontext.dio.svg[]
 
 **<Diagramm oder Tabelle>**
 
